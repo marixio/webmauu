@@ -65,7 +65,7 @@ qrcode.callback = (respuesta) => {
     Swal.fire(respuesta)
     activarSonido();
     //encenderCamara();    
-    cerrarCamara();    
+    //cerrarCamara();    
 
   }
 };
